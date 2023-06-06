@@ -1,0 +1,102 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: lightblue;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+/* Box sizing rules */
+*,
+::before,
+::after {
+  box-sizing: border-box;
+}
+
+/* Remove default margin and padding */
+html,
+body,
+div,
+span,
+h1,
+h2,
+p,
+a,
+img,
+button,
+input {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+body {
+  font-size: 16px;
+  color: #333;
+}
+
+@media (min-width: 768px) {
+  body {
+    font-size: 18px;
+  }
+}
+
+a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  text-decoration: underline;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+.button {
+  display: inline-block;
+  background-color: #0077cc;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.button:hover,
+.button:focus {
+  background-color: #005ea5;
+}
+
+input[type="text"],
+input[type="email"] {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus {
+  outline: none;
+  border-color: #0077cc;
+  box-shadow: 0 0 0 2px rgba(0, 119, 204, 0.3);
+}

@@ -1,0 +1,16 @@
+A.
+
+B. This app is primarily oriented towardss K-12 teachers who want an automated method of configuring their seating charts. It prcoures all relevant information about your students and preferences inasfar as classroom orientation. 
+
+C. The app has a lot of form rendering, so I tried to 
+so I tried to keep them interactive and customizable.
+
+D. Each test is located adjacent to the file they are test. Make sure jest is installed and run it through the command line.
+
+E. A user signs up, adds their current course load, adds the students for each course load, configures their classroom layout, specifies seating paramaters, and retrieves a seating chart for each respective class.
+
+F. The API will remain as it is a simple node.js application i develioped.
+
+F. This app doesn't contain any extravagent dependencies or imported modules. It's almost entirrely javascript/html/css within the node react frameworks.
+
+G. My ultimate goal with this was to create something that people I know from work who already streched too thin could utilize something that would make their lives a little easier.

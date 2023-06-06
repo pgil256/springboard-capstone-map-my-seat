@@ -1,0 +1,44 @@
+/* #container {
+  display: block;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #f2f2f2;
+}
+
+#title {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  margin-bottom: 2rem;
+  color: #333;
+}
+
+#msg {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  color: #333;
+}
+
+p {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  margin-top: 2rem;
+  color: #333;
+}
+
+a {
+  margin-right: 1rem;
+  color: #333;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+} */

@@ -1,0 +1,190 @@
+/* td:hover {
+  background-color: rgb(225, 250, 225);
+}
+
+.teacher-desk {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(250, 250, 200);
+  border: thick double black;
+  margin: auto;
+}
+
+.desk {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(200, 250, 250);
+  border: solid 2px rgb(7, 7, 7);
+}
+
+button {
+  margin: 10px;
+}
+
+#seat-form-div,
+#seating-config-form,
+#seat-style-form-div {
+  padding: 5px;
+  margin: 5px;
+}
+
+#SeatStyleForm {
+  display: inline-block;
+  flex-direction: column;
+  align-items: left;
+  margin: 1rem;
+}
+
+#seat-form-div {
+  display: inline-block;
+  flex-direction: column;
+  align-items: center;
+  margin: 1rem;
+}
+
+#seat-form-div {
+  float: left;
+  display: inline-block;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+#seat-form-div p {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+#seat-form-div div {
+  display: inline-block;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+#seat-form-div label {
+  margin-left: 10px;
+}
+
+#matrix {
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+.seat {
+  display: none;
+}
+
+.seat + label {
+  cursor: pointer;
+  border: 1px solid #ccc;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.seat:checked + label {
+  background-color: #ccc;
+}
+
+#ClassroomForm {
+  display: inline-block;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+#priority-form-div {
+  display: inline-block;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+#priority-form-div p {
+  margin-right: 1rem;
+}
+
+#priority-form-div label {
+  margin-left: 0.5rem;
+}
+
+#seat-style-form-div {
+  display: inline-block;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#seat-style-form-div p {
+  margin-right: 1rem;
+}
+
+#seat-style-form-div label {
+  margin-right: 0.5em;
+}
+
+button[type="submit"] {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+button[type="submit"]:hover {
+  background-color: #3e8e41;
+}
+
+div button {
+  background-color: #008cba;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+div button:hover {
+  background-color: #006b8f;
+}
+
+div p {
+  margin-bottom: 10px;
+}
+
+#SeatStyleForm {
+  margin: 20px;
+}
+
+#seat-form-div {
+  display: inline-block;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+#seat-form-div p {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+#seat-form-div div {
+  display: inline-block;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+#seat-form-div label {
+  margin-left: 10px;
+  font-size: 16px;
+}
+
+#seat-form-div input[type="radio"] {
+  margin-right: 10px;
+} */

@@ -1,0 +1,19 @@
+.LoadingSpinner {
+    color: rgb(255, 75, 75);
+    font-size: 30pt;
+    font-weight: bold;
+    text-align: center;
+    display:  inline-block;
+    position: relative;
+    width: 80px;
+    height: 80px;
+  }
+  
+  .LoadingSpinner div {
+    position: absolute;
+    top: 33px;
+    width: 13px;
+    height: 13px;
+    border-radius: 50%;
+    background: #fff;
+  }
